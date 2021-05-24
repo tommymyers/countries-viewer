@@ -1,0 +1,18 @@
+.country {
+  /* background-color: lightblue; */
+  border: 1px solid black;
+  margin: 20px 0;
+}
+
+.country__name {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.country__flag {
+  width: 100px;
+  float: left;
+  margin-right: 10px;
+}
